@@ -1,7 +1,7 @@
 {
-  "name": "react-native-baidumobstat",
-  "version": "0.1.0",
-  "description": "react-native-baidumobstat",
+  "name": "@darkce/react-native-baidumobstat",
+  "version": "1.0.0",
+  "description": "百度移动统计 react-native (ios)",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
@@ -10,12 +10,10 @@
   "files": [
     "src",
     "lib",
-    "android",
     "ios",
     "cpp",
     "react-native-baidumobstat.podspec",
     "!lib/typescript/example",
-    "!android/build",
     "!ios/build",
     "!**/__tests__",
     "!**/__fixtures__",
@@ -34,10 +32,11 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "百度移动统计",
+    "baidumobstat"
   ],
   "repository": "https://github.com/luoxuhai/react-native-baidumobstat",
-  "author": "luoxuhai <15186743693@163.com> (https://github.com/luoxuhai)",
+  "author": "luoxuhai <2639415619@qq.com> (https://github.com/luoxuhai)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/luoxuhai/react-native-baidumobstat/issues"
